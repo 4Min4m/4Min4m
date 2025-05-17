@@ -203,20 +203,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Min4m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+graph TD
+  A[👨‍💻 Dev - git push] --> B[⚙️ GitHub Actions]
+  B --> C[📦 Terraform Apply]
+  C --> D[🐳 Docker Build & Push]
+  D --> E[⎈ Kubernetes Deploy]
+  E --> F[📊 Monitoring: Prometheus + Grafana]
 
-flowchart LR
-  subgraph Source Control
-    A[👨‍💻 Dev] --> B[🔁 Git Push]
-  end
-
-  subgraph CI/CD
-    B --> C[⚙️ GitHub Actions]
-    C --> D[📦 Terraform Apply]
-    D --> E[🐳 Docker Build & Push]
-    E --> F[Kubernetes ⎈ Deploy]
-  end
-
-  subgraph Monitoring
-    F --> G[(📈 Grafana)]
-    F --> H[(📊 Prometheus)]
-  end
