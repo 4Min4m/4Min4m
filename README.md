@@ -204,14 +204,19 @@
 </p>
 
 
-My CI/CD Pipeline Diagram
-git push → GitHub Actions → Terraform apply → Docker build → K8s deploy → Monitoring
+flowchart LR
+  subgraph Source Control
+    A[👨‍💻 Dev] --> B[🔁 Git Push]
+  end
 
-```mermaid
-graph TD
-  A[Dev - git push] --> B[GitHub Actions]
-  B --> C[Terraform Apply]
-  C --> D[Docker Build & Push]
-  D --> E[Kubernetes Deploy]
-  E --> F[Monitoring: Prometheus + Grafana]
-```
+  subgraph CI/CD
+    B --> C[⚙️ GitHub Actions]
+    C --> D[📦 Terraform Apply]
+    D --> E[🐳 Docker Build & Push]
+    E --> F[Kubernetes ⎈ Deploy]
+  end
+
+  subgraph Monitoring
+    F --> G[(📈 Grafana)]
+    F --> H[(📊 Prometheus)]
+  end
