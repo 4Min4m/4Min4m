@@ -203,10 +203,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Min4m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+My CI/CD Pipeline Diagram
+git push → GitHub Actions → Terraform apply → Docker build → K8s deploy → Monitoring
+
+```mermaid
 graph TD
   A[👨‍💻 Dev - git push] --> B[⚙️ GitHub Actions]
   B --> C[📦 Terraform Apply]
   C --> D[🐳 Docker Build & Push]
   D --> E[⎈ Kubernetes Deploy]
   E --> F[📊 Monitoring: Prometheus + Grafana]
-
+```
