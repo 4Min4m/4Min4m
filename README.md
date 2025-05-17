@@ -171,22 +171,38 @@
 </table>
 
 
-📘 My Articles
+---
 
-How I Became a DevOps Engineer
+### 🌐 Find me on:
 
-My Daily Workflow as a Cloud Developer
+<p align="left">
+  <a href="[Linkedin](https://www.linkedin.com/in/mohammad-amin-amini/)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[Medium](https://medium.com/@m.a.amini2011)" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="[Youtube](https://www.youtube.com/@aminamshowi)" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://yourdomain.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="My Website"/>
+  </a>
+</p>
 
-Managing Time as a Self-Taught Techie
+---
 
+### 📊 GitHub Stats
 
-📬 Let’s Connect
-[Linkedin](https://www.linkedin.com/in/mohammad-amin-amini)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=4Min4m&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Min4m&theme=tokyonight&hide_border=true" alt="Your GitHub streak" width="48%"/>
+</p>
 
-📊 GitHub Activity
-```bash
-> GitHub Contributions - DevOps style!
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Min4me&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 My CI/CD Pipeline Diagram
 git push → GitHub Actions → Terraform apply → Docker build → K8s deploy → Monitoring
