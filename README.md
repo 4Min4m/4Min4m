@@ -2,7 +2,8 @@
 
 ```bash
 > Automating infrastructure, deploying microservices, and monitoring the cloud ☁️
-> Current Location: Netherlands 🇳🇱 | Looking for visa-sponsored DevOps roles 💼
+> Current Location: Netherlands 🇳🇱 💼
+```
 
 🔧 Tech Stack
 Languages:
@@ -41,6 +42,7 @@ Managing Time as a Self-Taught Techie
 📊 GitHub Activity
 ```bash
 > GitHub Contributions - DevOps style!
+```
 
 My CI/CD Pipeline Diagram
 git push → GitHub Actions → Terraform apply → Docker build → K8s deploy → Monitoring
