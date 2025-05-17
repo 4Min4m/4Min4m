@@ -106,7 +106,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/TransactionSimulator/paysimu.png" alt="simulator preview" width="100%">
+      <img src="https://github.com/4Min4m/TransactionSimulator/blob/main/paysimu.png" alt="simulator preview" width="100%">
     </td>
   </tr>
 
@@ -121,7 +121,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/3tier-app/main.png" alt="devops app preview" width="100%">
+      <img src="https://github.com/4Min4m/3tier-app/blob/main/main.png" alt="devops app preview" width="100%">
     </td>
   </tr>
   
@@ -136,7 +136,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/GreenThumb/sabzlife.png" alt="sabzlife preview" width="100%">
+      <img src="https://github.com/4Min4m/GreenThumb/blob/main/sabzlife.png" alt="sabzlife preview" width="100%">
     </td>
   </tr>
 
@@ -151,7 +151,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/spider-cursor/spiders.png" alt="spider game preview" width="100%">
+      <img src="https://github.com/4Min4m/spider-cursor/blob/main/spiders.png" alt="spider game preview" width="100%">
     </td>
   </tr>
     <tr>
@@ -165,7 +165,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/BudgeTrack/main.png" alt="main page" width="100%">
+      <img src="https://github.com/4Min4m/BudgeTrack/blob/main/main.png" alt="main page" width="100%">
     </td>
   </tr>
 </table>
