@@ -176,7 +176,7 @@
 ### 🌐 Find me on:
 
 <p align="left">
-  <a href="[Linkedin](https://www.linkedin.com/in/mohammad-amin-amini/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-amin-amini/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[Medium](https://medium.com/@m.a.amini2011)" target="_blank">
@@ -200,7 +200,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Min4me&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Min4m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
