@@ -1,6 +1,8 @@
 # 👋 Hello, I’m Amin | DevOps Engineer 👨‍💻☁️
 
-![DevOpsEngineerGIF](devopsgif.gif)
+<div align="center">
+  <img src="devopsgif.gif" alt="DevOpsEngineerGIF">
+</div>
 
 ```bash
 > Automating infrastructure, deploying microservices, and monitoring the cloud ☁️
