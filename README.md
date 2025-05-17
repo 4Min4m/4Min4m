@@ -43,13 +43,13 @@
   </a>
 </p>
 
-<!-- Programming & Backend -->
+<!-- Programming Languages -->
 <p align="left">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -59,33 +59,116 @@
   </a>
 </p>
 
-<!-- Databases & APIs -->
+<!-- Databases -->
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
   </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- API & Testing -->
+<p align="left">
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
 
-<!-- Cloud & Hosting -->
+<!-- Logging & Monitoring -->
 <p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <a href="https://www.zabbix.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/what-is/elk-stack" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/>
   </a>
 </p>
 
+<h2 align="left">📌 My Projects</h2>
 
-🚀 Highlight Projects
-| Project                                         | Description                                                       | Tools                   |
-| ----------------------------------------------- | ----------------------------------------------------------------- | ----------------------- |
-| [💳 Payment Transaction Simulator](https://...) | Microservices-based app simulating payment flow, deployed on AWS. | Node.js, Docker, Lambda |
-| [📟 Incident Log Tracker](https://...)          | Web app to track NOC incidents & downtime logs.                   | Express, MongoDB        |
-| [🔍 Error Search Tool](https://...)             | Real-time error trace analyzer for transaction systems.           | ElasticSearch, Node.js  |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💳 Payment Transaction Simulator</h3>
+      <ul>
+        <li>🔧 Built with: Node.js, Express, AWS Lambda, Terraform, Docker</li>
+        <li>📦 Simulates ISO 8583 transaction flows end-to-end</li>
+        <li>📈 Designed for testing payment integrations with webhook support</li>
+        <li>🌐 <a href="https://transaction-simulator-frontend-roolpho0.s3-website-us-east-1.amazonaws.com/" target="_blank">Live Demo</a> | <a href="https://github.com/4Min4m/TransactionSimulator" target="_blank">Repo</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/4Min4m/TransactionSimulator/paysimu.png" alt="simulator preview" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🛠️ DevOps Training App</h3>
+      <ul>
+        <li>📦 Full-stack app with React frontend, Node.js backend, and MySQL database</li>
+        <li>🔁 GitLab CI/CD pipeline, Docker, Kubernetes</li>
+        <li>🗂️ Automated with Ansible & deployed via Terraform</li>
+        <li>📘 <a href="https://github.com/4Min4m/3tier-app" target="_blank">Repo</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/4Min4m/3tier-app/main.png" alt="devops app preview" width="100%">
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%">
+      <h3>🛒 Sabzlife E-commerce App</h3>
+      <ul>
+        <li>⚡ Fast & Optimized with Vite, Scalable Architecture using React & TypeScript, Modern Styling with TailwindCSS, State Management powered by Redux Toolkit</li>
+        <li>⚙️ Payment integration, cart system, admin dashboard</li>
+        <li>🚀 Beautiful UI using Lucide-react Icons</li>
+        <li>🌐 <a href="https://sabzlife.netlify.app/" target="_blank">Live Demo</a> | <a href="https://github.com/4Min4m/GreenThumb" target="_blank">Repo</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/4Min4m/GreenThumb/sabzlife.png" alt="sabzlife preview" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🕷️ Spider Mouse Game</h3>
+      <ul>
+        <li>🎮 Fun interactive animation with pure JavaScript</li>
+        <li>🧠 Dynamic particle system</li>
+        <li>👾 Spiders chase the mouse cursor in real time</li>
+        <li>🌐 <a href="https://spidercurs.netlify.app/" target="_blank">Play Online</a> | <a href="https://github.com/4Min4m/spider-cursor" target="_blank">Repo</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/4Min4m/spider-cursor/spiders.png" alt="spider game preview" width="100%">
+    </td>
+  </tr>
+    <tr>
+    <td width="50%">
+      <h3> 🧾💸 BudgeTrack! </h3>
+      <ul>
+        <li>🎮 Upload receipts and extract data using Tesseract.js (OCR), Automatically detect & translate Dutch 🇳🇱 and English 🇬🇧 receipts</li>
+        <li>🧠 Set budgets across categories and track your spending, Create and manage shopping lists</li>
+        <li>👾 Export data to Excel (XLSX), Financial insights with spending charts</li>
+        <li>🌐 <a href="https://budgetracki.netlify.app/" target="_blank">Happy budgeting!</a> | <a href="https://github.com/4Min4m/BudgeTrack" target="_blank">Repo</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/4Min4m/BudgeTrack/main.png" alt="main page" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 📘 My Articles
