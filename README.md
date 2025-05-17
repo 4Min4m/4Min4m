@@ -1,5 +1,7 @@
 # 👋 Hello, I’m Amin | DevOps Engineer 👨‍💻☁️
 
+![DevOpsEngineerGIF](devopsgif.gif)
+
 ```bash
 > Automating infrastructure, deploying microservices, and monitoring the cloud ☁️
 > Current Location: Netherlands 🇳🇱 💼
