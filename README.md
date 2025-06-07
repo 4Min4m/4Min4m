@@ -110,6 +110,23 @@
     </td>
   </tr>
 
+<tr>
+    <td width="50%">
+      <h3>⚙️ DevSecOps CI/CD Pipeline on AWS</h3>
+      <ul>
+        <li>🔧 Built with: Node.js, AWS CloudFormation, CodePipeline, CodeBuild, CodeDeploy, EC2 (Ubuntu), IAM, S3, VPC, SNS, Shell Scripting, GitHub</li>
+        <li>📦 Automated CI/CD pipeline from code commit to multi-environment EC2 deployment</li>
+        <li>🛡️ Integrates simulated SAST/SCA security scans, shifting security left</li>
+        <li>💰 Designed with strict adherence to AWS Free Tier limits for cost-efficiency</li>
+        <li>✅ Features manual approval gates for quality control in Staging & Production</li>
+        <li>🌐 <a href="https://github.com/4Min4m/AWS-env" target="_blank">Repo</a> | <a href="https://aws.amazon.com/free/" target="_blank">AWS Free Tier Info</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/4Min4m/AWS-env/blob/main/images/diagram.png" alt="DevSecOps Pipeline Diagram" width="100%">
+    </td>
+  </tr>
+
   <tr>
     <td width="50%">
       <h3>🛠️ DevOps Training App</h3>
