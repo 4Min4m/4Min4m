@@ -138,7 +138,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/3-tier-app/blob/main/main.png" alt="devops app preview" width="100%">
+      <img src="https://github.com/4Min4m/3tier-app/blob/main/main.png" alt="devops app preview" width="100%">
     </td>
   </tr>
   
