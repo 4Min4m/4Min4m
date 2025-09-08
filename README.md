@@ -129,16 +129,16 @@
 
   <tr>
     <td width="50%">
-      <h3>🛠️ DevOps Training App</h3>
+      <h3>🛠️ AWS EKS HTTPBin Deployment</h3>
       <ul>
-        <li>📦 Full-stack app with React frontend, Node.js backend, and MySQL database</li>
-        <li>🔁 GitLab CI/CD pipeline, Docker, Kubernetes</li>
-        <li>🗂️ Automated with Ansible & deployed via Terraform</li>
-        <li>📘 <a href="https://github.com/4Min4m/3tier-app" target="_blank">Repo</a></li>
+        <li>📦 Deployed HTTPBin app on AWS EKS with public and private endpoints using ALB</li>
+        <li>🔁 Automated CI/CD-ready infrastructure with Terraform and Kubernetes manifests</li>
+        <li>🗂️ Managed with Helm for AWS Load Balancer Controller and secured with IAM policies</li>
+        <li>📘 <a href="https://github.com/4Min4m/eks-httpbin-alb" target="_blank">Repo</a></li>
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/3tier-app/blob/main/main.png" alt="devops app preview" width="100%">
+      <img src="https://github.com/4Min4m/eks-httpbin-alb/blob/main/main.png" alt="devops app preview" width="100%">
     </td>
   </tr>
   
