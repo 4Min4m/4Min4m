@@ -68,9 +68,6 @@
   <a href="https://grafana.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
-  <a href="https://grafana.com/oss/loki/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="loki" width="40" height="40"/>
-  </a>
   <a href="https://www.elastic.co/what-is/elk-stack" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/>
   </a>
