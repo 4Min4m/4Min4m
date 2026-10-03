@@ -42,9 +42,6 @@
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
   </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argo cd" width="40" height="40"/>
-  </a>
 </p>
 
 <!-- Containers & Orchestration -->
@@ -74,9 +71,6 @@
   <a href="https://grafana.com/oss/loki/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="loki" width="40" height="40"/>
   </a>
-  <a href="https://opentelemetry.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opentelemetryio/opentelemetryio-icon.svg" alt="opentelemetry" width="40" height="40"/>
-  </a>
   <a href="https://www.elastic.co/what-is/elk-stack" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/>
   </a>
@@ -102,9 +96,6 @@
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://golang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
