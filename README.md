@@ -244,16 +244,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Min4m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-My GitOps Delivery Flow
-git push → CI Gate (Semgrep/Checkov/gitleaks) → Argo CD → Kubernetes → Observability
-
-```mermaid
-graph TD
-  A[👨‍💻 Dev - git push] --> B[⚙️ CI: GitHub Actions / GitLab CI]
-  B --> C[🛡️ Security Gate: gitleaks · Semgrep · Checkov]
-  C --> D[📦 Terraform Apply / Docker Build & Push]
-  D --> E[⎈ Argo CD GitOps Sync → Kubernetes]
-  E --> F[📊 Prometheus + Grafana + Loki + OpenTelemetry]
-  F --> G[🤖 AIOps Agent Investigation]
-```
