@@ -159,7 +159,9 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/eks-httpbin-alb/blob/main/architecture.png" alt="EKS Platform" width="100%">
+      <a href="https://4min4m.github.io/eks-gate-forecast-dr/" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/450/noanimate/wait/10/https://4min4m.github.io/eks-gate-forecast-dr/" alt="Enterprise EKS Platform Preview" width="100%">
+      </a>
     </td>
   </tr>
 
@@ -175,7 +177,9 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/BidFlow-Platform-Demo/blob/main/architecture.png" alt="BidFlow" width="100%">
+      <a href="https://4min4m.github.io/BidFlow-Platform-Demo/" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/450/noanimate/wait/10/https://4min4m.github.io/BidFlow-Platform-Demo/" alt="BidFlow Platform Preview" width="100%">
+      </a>
     </td>
   </tr>
 
@@ -191,7 +195,9 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/azure-aks-zero-trust/blob/main/architecture.png" alt="AKS Zero Trust" width="100%">
+      <a href="https://4min4m.github.io/azure-aks-zero-trust/" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/450/noanimate/wait/10/https://4min4m.github.io/azure-aks-zero-trust/" alt="Zero-Trust AKS Preview" width="100%">
+      </a>
     </td>
   </tr>
 
@@ -208,7 +214,9 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/4Min4m/eks-aiops-agent-security-audit/blob/main/architecture.png" alt="AIOps Agent" width="100%">
+      <a href="https://4min4m.github.io/eks-aiops-agent-security-audit/" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/450/noanimate/wait/10/https://4min4m.github.io/eks-aiops-agent-security-audit/" alt="AIOps Agent Preview" width="100%">
+      </a>
     </td>
   </tr>
 </table>
